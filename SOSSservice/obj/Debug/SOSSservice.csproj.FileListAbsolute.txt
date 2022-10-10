@@ -1,0 +1,28 @@
+C:\Users\Lethabo\Desktop\Informatics\2B\Group Project\UpdatedWebsite\Service\SOSSservice\bin\SOSSservice.dll.config
+C:\Users\Lethabo\Desktop\Informatics\2B\Group Project\UpdatedWebsite\Service\SOSSservice\bin\SOSSservice.dll
+C:\Users\Lethabo\Desktop\Informatics\2B\Group Project\UpdatedWebsite\Service\SOSSservice\bin\SOSSservice.pdb
+C:\Users\Lethabo\Desktop\Informatics\2B\Group Project\UpdatedWebsite\Service\SOSSservice\obj\Debug\SOSSservice.csproj.AssemblyReference.cache
+C:\Users\Lethabo\Desktop\Informatics\2B\Group Project\UpdatedWebsite\Service\SOSSservice\obj\Debug\SOSSservice.csproj.CoreCompileInputs.cache
+C:\Users\Lethabo\Desktop\Informatics\2B\Group Project\UpdatedWebsite\Service\SOSSservice\obj\Debug\SOSSservice.dll
+C:\Users\Lethabo\Desktop\Informatics\2B\Group Project\UpdatedWebsite\Service\SOSSservice\obj\Debug\SOSSservice.pdb
+C:\Users\darry\Downloads\Updated2 (1)\UpdatedWebsite\Service\SOSSservice\bin\SOSSservice.dll.config
+C:\Users\darry\Downloads\Updated2 (1)\UpdatedWebsite\Service\SOSSservice\bin\SOSSservice.dll
+C:\Users\darry\Downloads\Updated2 (1)\UpdatedWebsite\Service\SOSSservice\bin\SOSSservice.pdb
+C:\Users\darry\Downloads\Updated2 (1)\UpdatedWebsite\Service\SOSSservice\obj\Debug\SOSSservice.csproj.AssemblyReference.cache
+C:\Users\darry\Downloads\Updated2 (1)\UpdatedWebsite\Service\SOSSservice\obj\Debug\SOSSservice.csproj.CoreCompileInputs.cache
+C:\Users\darry\Downloads\Updated2 (1)\UpdatedWebsite\Service\SOSSservice\obj\Debug\SOSSservice.dll
+C:\Users\darry\Downloads\Updated2 (1)\UpdatedWebsite\Service\SOSSservice\obj\Debug\SOSSservice.pdb
+C:\Users\Bongiwe Nobela\Downloads\Updated2 (1)-20221006T211319Z-001\Updated2 (1)\UpdatedWebsite\Service\SOSSservice\bin\SOSSservice.dll.config
+C:\Users\Bongiwe Nobela\Downloads\Updated2 (1)-20221006T211319Z-001\Updated2 (1)\UpdatedWebsite\Service\SOSSservice\bin\SOSSservice.dll
+C:\Users\Bongiwe Nobela\Downloads\Updated2 (1)-20221006T211319Z-001\Updated2 (1)\UpdatedWebsite\Service\SOSSservice\bin\SOSSservice.pdb
+C:\Users\Bongiwe Nobela\Downloads\Updated2 (1)-20221006T211319Z-001\Updated2 (1)\UpdatedWebsite\Service\SOSSservice\obj\Debug\SOSSservice.csproj.AssemblyReference.cache
+C:\Users\Bongiwe Nobela\Downloads\Updated2 (1)-20221006T211319Z-001\Updated2 (1)\UpdatedWebsite\Service\SOSSservice\obj\Debug\SOSSservice.csproj.CoreCompileInputs.cache
+C:\Users\Bongiwe Nobela\Downloads\Updated2 (1)-20221006T211319Z-001\Updated2 (1)\UpdatedWebsite\Service\SOSSservice\obj\Debug\SOSSservice.dll
+C:\Users\Bongiwe Nobela\Downloads\Updated2 (1)-20221006T211319Z-001\Updated2 (1)\UpdatedWebsite\Service\SOSSservice\obj\Debug\SOSSservice.pdb
+C:\Users\user\Downloads\Updated\Updated\Updated2 (1)\UpdatedWebsite\Service\SOSSservice\bin\SOSSservice.dll.config
+C:\Users\user\Downloads\Updated\Updated\Updated2 (1)\UpdatedWebsite\Service\SOSSservice\bin\SOSSservice.dll
+C:\Users\user\Downloads\Updated\Updated\Updated2 (1)\UpdatedWebsite\Service\SOSSservice\bin\SOSSservice.pdb
+C:\Users\user\Downloads\Updated\Updated\Updated2 (1)\UpdatedWebsite\Service\SOSSservice\obj\Debug\SOSSservice.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\Updated\Updated\Updated2 (1)\UpdatedWebsite\Service\SOSSservice\obj\Debug\SOSSservice.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\Updated\Updated\Updated2 (1)\UpdatedWebsite\Service\SOSSservice\obj\Debug\SOSSservice.dll
+C:\Users\user\Downloads\Updated\Updated\Updated2 (1)\UpdatedWebsite\Service\SOSSservice\obj\Debug\SOSSservice.pdb
